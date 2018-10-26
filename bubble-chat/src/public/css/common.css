@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+body{
+    font-size:14px;
+    font-family: "微软雅黑"
+}
+.clearfix:after{
+    display: block;
+    width:100%;
+    overflow: hidden;
+    content:"";
+    clear: both;
+
+}
+a{
+    text-decoration: none;
+    color:#333;
+}
+li{
+    list-style:none;
+}
